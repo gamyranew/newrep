@@ -1,2 +1,3 @@
 # newrep
-testing and auto testing 
+testing and auto testing in javascript
+
